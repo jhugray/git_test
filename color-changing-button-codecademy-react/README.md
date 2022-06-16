@@ -1,4 +1,4 @@
-#Random Color Changing Button
+## Random Color Button
 
 This is a small project I completed as part of Codecademy's React course.
 
